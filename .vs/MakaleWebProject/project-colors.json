@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d6859e8-5f4b-49b2-962f-44b6916501eb": {
+      "ProjectGuid": "3d6859e8-5f4b-49b2-962f-44b6916501eb",
+      "DisplayName": "Makale.Entities",
+      "ColorIndex": 0
+    },
+    "6bbb8b38-7427-4ded-b8d5-3b610b0eaf63": {
+      "ProjectGuid": "6bbb8b38-7427-4ded-b8d5-3b610b0eaf63",
+      "DisplayName": "MakaleWebProject",
+      "ColorIndex": 1
+    },
+    "126ad19c-1a21-4075-a7e0-6ca8fcea16b8": {
+      "ProjectGuid": "126ad19c-1a21-4075-a7e0-6ca8fcea16b8",
+      "DisplayName": "Makale.BusinessLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
